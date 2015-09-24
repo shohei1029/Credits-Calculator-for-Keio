@@ -1,5 +1,5 @@
 # Credits Calculator for SFC
-Credits Calculator for SFC is Google Chrome Extention.
+Credits Calculator for SFC is Google Chrome Extention.  
 Calculateing credits automatically on Grade Reports System.
 ## How to Use
  Install from
