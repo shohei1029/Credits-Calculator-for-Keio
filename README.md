@@ -1,6 +1,6 @@
 # Credits Calculator for SFC
 Credits Calculator for SFC is Google Chrome Extention.  
-Extending Grade Reports System.
+Extending Grade Reports System of SFC Gakuji Web.
 ## Demo
 ![Demo](img/ss.png)
 ## How to Use
