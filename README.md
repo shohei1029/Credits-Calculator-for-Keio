@@ -1,6 +1,7 @@
 # Credits Calculator for Keio
 Credits Calculator for Keio is Google Chrome Extention.  
 Extending Grade Reports System of Keio Univ. Gakuji Web.
+
 ## Recent Updates
 - 主語を大きく
 - 評語Sに対応
@@ -11,4 +12,5 @@ Extending Grade Reports System of Keio Univ. Gakuji Web.
 [成績証明書における成績評価について](http://www.gakuji.keio.ac.jp/academic/shoumei/grading_system.html)
 ## Demo
 ![Demo](img/ss.png)
-## How to Use
+
+forked from reatgcr0wn/Credits-Calculator-for-SFC
