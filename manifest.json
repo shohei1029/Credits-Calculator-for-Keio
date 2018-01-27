@@ -6,7 +6,7 @@
   "content_scripts": [
     {
       "matches": ["https://www2.adst.keio.ac.jp/rcs/topMenu"],
-      "js": ["jquery.min.js","script.js"],
+      "js": ["jquery.min.js","script.min.js"],
 	  "run_at": "document_start"
     }
   ]
