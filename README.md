@@ -1,8 +1,12 @@
-# Credits Calculator for SFC
-Credits Calculator for SFC is Google Chrome Extention.  
-Extending Grade Reports System of SFC Gakuji Web.
+# Credits Calculator for Keio
+Credits Calculator for Keio is Google Chrome Extention.  
+Extending Grade Reports System of Keio Univ. Gakuji Web.
+## Recent Updates
+- 評語Sに対応
+- GPAの計算式が正しくなかった問題を修正 (総履修単位数で割らなくてはいけない部分が総取得単位数で割るようになっていた)
+  GPA計算式について，2017年度以降入学生による検証を求む．
+- 自由科目が複数分野に存在していた際に，最後の分野しか取得できていなかった問題を修正
+[成績証明書における成績評価について](http://www.gakuji.keio.ac.jp/academic/shoumei/grading_system.html)
 ## Demo
 ![Demo](img/ss.png)
 ## How to Use
- Install from
- [https://chrome.google.com/webstore/detail/credits-calculator-for-sf/hedcamhihmelkmkblpkpmjmkdoimajgk?hl=ja](https://chrome.google.com/webstore/detail/credits-calculator-for-sf/hedcamhihmelkmkblpkpmjmkdoimajgk?hl=ja).
