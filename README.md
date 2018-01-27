@@ -2,6 +2,7 @@
 Credits Calculator for Keio is Google Chrome Extention.  
 Extending Grade Reports System of Keio Univ. Gakuji Web.
 ## Recent Updates
+- 主語を大きく
 - 評語Sに対応
 - GPAの計算式を修正 (総履修単位数で割らなくてはいけない部分が総取得単位数で割るようになっていた?)
   GPA計算式について，2017年度以降入学生による検証を求む．
