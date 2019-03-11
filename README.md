@@ -2,6 +2,8 @@
 Credits Calculator for Keio is Google Chrome Extention.  
 Extending Grade Reports System of Keio Univ. Gakuji Web.
 
+※  2018年度秋学期より成績表の表示スタイルが変更された模様。現在調査中になります。
+
 ## Recent Updates
 - 主語を大きく
 - 評語Sに対応
